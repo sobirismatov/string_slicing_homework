@@ -6,4 +6,4 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[:5]
+    return s[:4]
